@@ -5,118 +5,85 @@
 
 <br>
 
+<!-- LOGO -->
 <img src="https://raw.githubusercontent.com/FreezeezyPeak/Info-Freezeezy-PeaK/main/logo_freezeezy.png" width="200">
 
 # ❄️ FreezeezyPeak
 
 ### `Code • Create • Open Source • Learn`
 
-<!-- BOTONES DE IDIOMA -->
-<p align="center">
-  <a href="#español">🇪🇸 Español</a> • 
-  <a href="#english">🇺🇸 English</a>
-</p>
+<!-- SUB ANIMACIÓN -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&lines=Building+Games;Making+Tools;Sharing+Open+Source;Improving+Every+Day" />
 
 </div>
 
 ---
 
-<!-- 🌊 ANIMACIÓN SEPARADOR -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0d1117&height=120&section=header"/>
-</p>
-
----
-
-# 🇪🇸 Español <a name="español"></a>
-
 ## 👋 Sobre mí
 
-Soy un desarrollador que crea **juegos, herramientas y aplicaciones simples**, mientras aprende y comparte proyectos open source.
+> “Code, creativity and open projects.”
+
+Bienvenido a **FreezeezyPeak**.  
+Soy un desarrollador enfocado en crear **juegos, herramientas y aplicaciones simples**, mientras aprendo y mejoro constantemente en el mundo del código.
 
 ---
 
 ## 🚀 Proyectos
 
-- 🎮 Juegos
-- 🧩 Apps simples
-- 🛠️ Herramientas
+- 🎮 Desarrollo de juegos
+- 🧩 Apps simples y utilidades
+- 🛠️ Herramientas open source
 - 🌐 Proyectos web
-- 🧪 Experimentos
+- 🧪 Experimentos de programación
 
 ---
 
-## 💻 Tecnologías
+## 💻 Stack Tecnológico
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=cs,html,css,js,git,github,vscode" />
+
 </p>
 
 ---
 
 ## 🎯 Objetivo
 
-Aprender, crear y compartir proyectos útiles y creativos.
+Construir, aprender y compartir proyectos de código abierto que sean útiles, simples y creativos.
 
 ---
 
-## ⚡ Estado
+## ⚠️ Estado del proyecto
 
-- 🟢 Activo
-- 🔵 Nuevas ideas
-- ❄️ Creciendo
-
----
+- 🟢 Desarrollo activo
+- 🔵 Nuevas ideas en progreso
+- ❄️ FreezeezyPeak creciendo constantemente
 
 ---
 
-# 🇺🇸 English <a name="english"></a>
+## 📌 Nota
 
-## 👋 About me
-
-I am a developer who builds **games, tools and simple apps**, while learning and sharing open source projects.
-
----
-
-## 🚀 Projects
-
-- 🎮 Games
-- 🧩 Simple apps
-- 🛠️ Tools
-- 🌐 Web projects
-- 🧪 Experiments
+Actualmente algunos proyectos están en desarrollo.  
+Estoy mejorando la calidad y publicando poco a poco nuevas ideas.
 
 ---
 
-## 💻 Technologies
+<!-- 🎮 MINI JUEGO ANIMADO -->
+<div align="center">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cs,html,css,js,git,github,vscode" />
-</p>
+## 🎮 Freezeezy Arcade Mode
 
----
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG9qZ2R6dG9pZ2Q2b3Z3dWZ2dWZ1d3V6d3Z6dWZ2dWZ6d3Z6dWZ6dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="320">
 
-## 🎯 Goal
+### `▶ Loading Freezeezy Engine...`
 
-To learn, build and share useful and creative projects.
-
----
-
-## ⚡ Status
-
-- 🟢 Active development
-- 🔵 New ideas coming
-- ❄️ Growing project
+</div>
 
 ---
-
-<!-- FOOTER WAVE -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58A6FF&height=120&section=footer"/>
-</p>
 
 <div align="center">
 
-⭐ FreezeezyPeak • Open Source Journey ⭐
+⭐ *Gracias por visitar FreezeezyPeak* ⭐
 
 </div>
