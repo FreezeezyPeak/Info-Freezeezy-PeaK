@@ -42,3 +42,11 @@ Aprender, experimentar y compartir proyectos gratuitos con otras personas.
 ## FreezeezyPeak
 
 Gracias por visitar este perfil.
+
+## 👀 FreezeezyPeak
+
+Gracias por visitar este perfil.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FreezeezyPeak/Info-Freezeezy-PeaK/main/logo_freezeezy.png" width="220">
+</p>
