@@ -1,29 +1,41 @@
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/FreezeezyPeak/Info-Freezeezy-PeaK/main/logo_freezeezy.png" width="220">
+
 # ❄️ FreezeezyPeak
+
+### `Code • Create • Open Source`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Games+Developer;Open+Source+Projects;Simple+Apps+Creator;Learning+New+Things;Creative+Coding" />
+
+</div>
+
+---
 
 > “Code, creativity and open projects.”
 
 Bienvenido a **FreezeezyPeak**.  
-Soy un programador que disfruta crear programas, juegos, apps simples y proyectos de código abierto gratuitos.
+Soy un programador que disfruta crear programas, juegos, apps simples y proyectos gratuitos de código abierto.
 
 ---
 
 ## 🚀 Proyectos
 
-- 🔹 Juegos
-- 🔹 Apps simples
-- 🔹 Herramientas
-- 🔹 Web Projects
-- 🔹 Experimentos y pruebas
+- 🎮 Juegos
+- 🧩 Apps simples
+- 🛠️ Herramientas
+- 🌐 Web Projects
+- 🧪 Experimentos y pruebas
 
 ---
 
 ## 💻 Tecnologías
 
-- C#
-- HTML
-- CSS
-- JavaScript
-- JSON
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,html,css,js,vscode,github" />
+
+</p>
 
 ---
 
@@ -33,20 +45,19 @@ Aprender, experimentar y compartir proyectos gratuitos con otras personas.
 
 ---
 
-## ⚡ Estado
+## ⚠️ Aviso
 
-🟢 Desarrollo activo
+Actualmente sigo trabajando en varios proyectos y mejorando muchas cosas.
+
+⏳ Algunos proyectos todavía están en desarrollo y esto tomará tiempo.
+
+Por ahora solo tengo uno casi terminado, pero poco a poco iré publicando más contenido.
 
 ---
 
-## FreezeezyPeak
+## ⚡ Estado
 
-Gracias por visitar este perfil.
-
-## 👀 FreezeezyPeak
-
-Gracias por visitar este perfil.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/FreezeezyPeak/Info-Freezeezy-PeaK/main/logo_freezeezy.png" width="220">
-</p>
+```txt
+🟢 Desarrollo activo
+🔵 Nuevos proyectos próximamente
+❄️ FreezeezyPeak en crecimiento
