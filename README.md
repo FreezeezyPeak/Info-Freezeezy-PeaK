@@ -1,63 +1,76 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Games+Developer;Open+Source+Projects;Creative+Coding;Simple+Apps+Creator;Learning+New+Things" />
+<!-- HEADER ANIMADO -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Games+Developer;Open+Source+Creator;Creative+Coding;Building+Simple+Apps;Always+Learning" />
 
-<img src="https://raw.githubusercontent.com/FreezeezyPeak/Info-Freezeezy-PeaK/main/logo_freezeezy.png" width="220">
+<br>
+
+<!-- LOGO -->
+<img src="https://raw.githubusercontent.com/FreezeezyPeak/Info-Freezeezy-PeaK/main/logo_freezeezy.png" width="200">
 
 # ❄️ FreezeezyPeak
 
-### `Code • Create • Open Source`
+### `Code • Create • Open Source • Learn`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Games+Developer;Open+Source+Projects;Simple+Apps+Creator;Learning+New+Things;Creative+Coding" />
+<!-- SUB ANIMACIÓN -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&lines=Building+Games;Making+Tools;Sharing+Open+Source;Improving+Every+Day" />
 
 </div>
 
 ---
 
+## 👋 Sobre mí
+
 > “Code, creativity and open projects.”
 
 Bienvenido a **FreezeezyPeak**.  
-Soy un programador que disfruta crear programas, juegos, apps simples y proyectos gratuitos de código abierto.
+Soy un desarrollador enfocado en crear **juegos, herramientas y aplicaciones simples**, mientras aprendo y mejoro constantemente en el mundo del código.
 
 ---
 
 ## 🚀 Proyectos
 
-- 🎮 Juegos
-- 🧩 Apps simples
-- 🛠️ Herramientas
-- 🌐 Web Projects
-- 🧪 Experimentos y pruebas
+- 🎮 Desarrollo de juegos
+- 🧩 Apps simples y utilidades
+- 🛠️ Herramientas open source
+- 🌐 Proyectos web
+- 🧪 Experimentos de programación
 
 ---
 
-## 💻 Tecnologías
+## 💻 Stack Tecnológico
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cs,html,css,js,vscode,github" />
+
+<img src="https://skillicons.dev/icons?i=cs,html,css,js,git,github,vscode" />
+
 </p>
 
 ---
 
-## 🌌 Objetivo
+## 🎯 Objetivo
 
-Aprender, experimentar y compartir proyectos gratuitos con otras personas.
-
----
-
-## ⚠️ Aviso
-
-Actualmente sigo trabajando en varios proyectos y mejorando muchas cosas.
-
-⏳ Algunos proyectos todavía están en desarrollo y esto tomará tiempo.
-
-Por ahora solo tengo uno casi terminado, pero poco a poco iré publicando más contenido.
+Construir, aprender y compartir proyectos de código abierto que sean útiles, simples y creativos.
 
 ---
 
-## ⚡ Estado
+## ⚠️ Estado del proyecto
 
-```txt
-🟢 Desarrollo activo
-🔵 Nuevos proyectos próximamente
-❄️ FreezeezyPeak en crecimiento
+- 🟢 Desarrollo activo
+- 🔵 Nuevas ideas en progreso
+- ❄️ FreezeezyPeak creciendo constantemente
+
+---
+
+## 📌 Nota
+
+Actualmente algunos proyectos están en desarrollo.  
+Estoy mejorando la calidad y publicando poco a poco nuevas ideas.
+
+---
+
+<div align="center">
+
+⭐ *Gracias por visitar FreezeezyPeak* ⭐
+
+</div>
